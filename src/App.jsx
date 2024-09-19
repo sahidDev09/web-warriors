@@ -11,6 +11,7 @@ function App() {
         <li>rose</li>
         <li>rahra</li>
       </ul>
+      <p>welcome to virtual world</p>
     </>
   );
 }
