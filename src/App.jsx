@@ -4,6 +4,7 @@ function App() {
   return (
     <>
       <h1>hello world</h1>
+      <p>welcome to virtual world</p>
     </>
   );
 }
